@@ -18,35 +18,31 @@
 
 2.	(2 pontos) Seja V = {1} o conjunto de valores utilizado para definir a adjacência. Para este conjunto, faça o que se pede:\
     a.	Defina conceitualmente adjacência-4, adjacência-8 e adjacência-m.
+    
             Adjacência-4: Dois pixels ‘p’ e ‘q’ com valores pertencendo a V são adjacentes quatro se ‘q’ estiver no conjunto N4(p).\
             Adjacência-8: Dois pixels ‘p’ e ‘q’ com valores pertencendo a V são adjacentes oito se ‘q’ estiver no conjunto N8(p).\
             Adjacência-m: Dois pixels ‘p’ e ‘q’ com valores pertencendo a V são adjacentes misto se: ‘q’ estiver no N4(p) ou ‘q’ está no ND(p) e o conjunto N4(p) ∩ N4(q) não contém nenhum pixel cujos valores pertencem a V.
 
-    b.	Para cada tipo de adjacência, crie uma imagem binária hipotética contendo um exemplo desta adjacência. Importante: não esqueça de assinalar os pixels que participam da adjacência indicada.
-            Imagem A-4 – pixel p = (1, 1); pixel q = (0, 1).
-            ![Imagem hipotética A-4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_i.PNG)
-
+    b.	Para cada tipo de adjacência, crie uma imagem binária hipotética contendo um exemplo desta adjacência. Importante: não esqueça de assinalar os pixels que participam da adjacência indicada.\
+            Imagem A-4 – pixel p = (1, 1); pixel q = (0, 1).\
+            ![Imagem hipotética A-4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_i.PNG)\
             Imagem A-8 – pixel p = (1, 1); pixel q = (0, 2).\
-            ![Imagem hipotétitca A-8](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_ii.PNG)
-        
+            ![Imagem hipotétitca A-8](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_ii.PNG)\
             Imagem A-m – pixel p = (1, 1); pixel q = (0, 1).\
             ![Imagem hipotética A-m](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_iii.PNG)
 
 3.   Observe os histogramas apresentados a seguir.\
     ![Imagem 1](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_3_i.png)
-
     ![Imagem 2](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_3_ii.png)
-
     ![Imagem 3](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_3_iii.png)
-
     ![Imagem 4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_3_iv.png)
 
-    Para cada histograma, indique se este foi criado a partir de uma imagem:
+Para cada histograma, indique se este foi criado a partir de uma imagem:
 
-        a.	Baixo contraste
-        b.	Alto contraste
-        c.	Clara
-        d.	Escura
+a.	Baixo contraste.\
+b.	Alto contraste.\
+c.	Clara.\
+d.	Escura.
         
             a. Imagem 3
             b. Imagem 4
@@ -55,15 +51,24 @@
 4.  As imagens mostradas nas Figuras 2(a) 2(b) (arquivos figura_2a.png e figura _2b.png em anexo) são diferentes entre si, mas possuem histogramas idênticos. Sobre estas duas imagens, faça o que se pede:\
 ![Imagem da questão 4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_4.png)
 
-    a.	Explique porque os histogramas são idênticos, uma vez que as imagens são diferentes.\
-    b.	Suponha que cada imagem seja borrada com um filtro da média de tamanho 3x3. Os histogramas permanecem iguais?\
+    a.	Explique porque os histogramas são idênticos, uma vez que as imagens são diferentes.
+    
+    		Resposta
+		
+    b.	Suponha que cada imagem seja borrada com um filtro da média de tamanho 3x3. Os histogramas permanecem iguais?
+    
+    		Resposta
+		
     c.	Esboce os histogramas antes e depois da convolução, justificando os resultados.
-        Resposta
+    
+        	Resposta
+		
 5. Diversas transformações foram aplicadas a uma mesma imagem, cujos resultados são apresentados a seguir. Em cada imagem foi aplicada somente uma transformação. Para cada uma destas transformações, faça o que se pede:
 
     a.	Identifique a operação efetuada.\
     b.	Explique o funcionamento desta operação.\
     ![Imagem da questão 5](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_5.png)
+    
         Operação A:
         a. Negativo de imagem.
         b. Ele reverte os níveis de intensidade de uma imagem, desta forma produz o equivalente ao negativo fotográfico.
@@ -79,12 +84,20 @@
         Operação E:
         a. Gradiente de Sobel.
         b.
-6. Na figura a seguir (arquivo ckt-board-saltpep-prob.pt05.tif em anexo) é mostrada a imagem de uma placa de circuito corrompida pelo ruído sal e pimenta:\
-![Imagem da questão 6](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/ckt-board-saltpep-prob.pt05.tif)
+6. Na figura a seguir (arquivo ckt-board-saltpep-prob.pt05.tif em anexo) é mostrada a imagem de uma placa de circuito corrompida pelo ruído sal e pimenta:
 
-	Utilizando uma janela de tamanho 5 x 5, faça o que se pede:
+![Imagem da questão 6](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_6.png)
 
-    a.	Aplique os filtros de suavização da média e mediana.\
-    b.	Apresente as imagens resultantes.\
-    c.	Qual filtro teve o melhor desempenho? Explique.
-        Resposta
+Utilizando uma janela de tamanho 5 x 5, faça o que se pede:
+
+a.	Aplique os filtros de suavização da média e mediana.
+
+		Resposta
+		
+b.	Apresente as imagens resultantes.
+
+		Resposta
+		
+c.	Qual filtro teve o melhor desempenho? Explique.
+
+        	Resposta
