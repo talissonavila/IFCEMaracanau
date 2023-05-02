@@ -17,7 +17,7 @@ O Repositório é dividido por pastas sendo do mais externo para o mais interno:
         
 Após o recebimento de sua avaliação:
  
-   * Caso seja a nota máxima, suas respostas virarão o gabarito
+   * Caso seja a nota máxima, suas respostas possivelmente se tornarão o gabarito, no caso de uma prova sem gabarito.
    * Qualquer outro valor, excluindo o zero, será criado um arquivo .pdf extra com as respostas dessa prova, com o final '_nota.pdf'. Ex: pdi_2010_2_av1_5,5.pdf
    * Caso em uma mesma prova de um mesmo semestre tenham duas notas com mesma pontuação, tendo alguma de suas respostas diferentes, subiremos os dois arquivos, adicionando 'aluno1.pdf' no final. Ex: pdi_2010_2_av1_5,5_aluno1.pdf, Ex: pdi_2010_2_av1_5,5_aluno2.pdf
    * As respostas dentro do arquivo pdf extra criados terão as respostas em azul-escuro como forma de destaque
