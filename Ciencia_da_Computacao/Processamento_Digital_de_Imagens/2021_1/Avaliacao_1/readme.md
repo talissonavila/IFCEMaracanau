@@ -2,16 +2,19 @@
 1. Suponha uma imagem hipotética cujo tamanho é 50 x 50 pixels. Para cada uma das opções da lista abaixo, calcule: i) quantidade de bits por pixel, (ii) quantidade de níveis de intensidade por pixel e (iii) quantidade de bits necessários para armazenamento da imagem hipotética.
 
     a.	Monocromática.
+    
         i) 1 bit.
         ii) 2 níveis (0-1).
         iii) 1 * 50 * 50 = 2500b.
 
     b.  Níveis de cinza.
+    
         i) 8 bits.
         ii) 256³ = 16777216.
         iii) 1 * 50 * 50 = 20000b.
 
     c.  Cor RGB.
+    
         i) 24 bits.
         ii) 256= 167777216.
         iii) 24 * 50 * 50 = 60000b.
