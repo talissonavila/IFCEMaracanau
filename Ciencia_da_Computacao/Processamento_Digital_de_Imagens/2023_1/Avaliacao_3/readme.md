@@ -30,7 +30,7 @@
     b.	Calcule a primeira diferença (ou derivada) do código de cadeia de 8 direções obtido.
 
         Resposta
-        67700006160771716
+        6770000616077171
     
 3. Seja __R__ uma região binária cujos pixels que a compõe estão marcados em cinza e o fundo marcado em branco. Considere também __ES__ um elemento estruturante de tamanho 3x3, que utiliza o mesmo padrão de representação de cores, conforme demostrado a seguir:
 
