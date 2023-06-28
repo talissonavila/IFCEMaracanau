@@ -46,7 +46,7 @@
 
 4.  Os operados morfológicos elementares também podem ser aplicados __a imagens em nível de cinza__. Neste contexto, explique os efeitos obtidos ao realizar isoladamente as operações (a) erosão, (b) dilatação, (c) abertura e (d) fechamento em uma imagem em __nível de cinza__. Utilize a Figura 5 para caracterizar as mudanças esperadas após a aplicação de cada um dos operadores citados isoladamente.
 
-    ![Figura 5](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_3/imagens/pdi_2023_1_av3_pergunta_4_i.PNG)
+    ![Figura 5](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_3/imagens/pdi_2023_1_av3_pergunta_4_i.png)
 
         a. A imagem fica mais escura; função mínimo; pontos claros diminuem, ou somem; pontos escuros crescem.
         
