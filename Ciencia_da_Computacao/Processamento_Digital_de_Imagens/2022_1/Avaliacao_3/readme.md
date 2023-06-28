@@ -1,14 +1,17 @@
 # Gabarito da prova
 1. No contexto do processamento morfológico de imagens, alguns operadores são considerados elementares. Isto se deve ao fato da maior parte dos operadores morfológicos serem implementados a partir destes. Explique sucintamente o funcionamento dos operadores a seguir, __quando aplicados em imagens binárias__:
 
-a. Erosão\
-b. Dilatação\
-c. Abertura\
-d. Fechamento
+a. Erosão
 
         a. Na erosão, o elemento estruturante (ES) percorre a imagem e transforma em 0 os pixels 1 da imagem que não incluem os pixels 1 do ES na região analisada por ele.
+b. Dilatação
+
         b. Na dilatação, quando o ES encontra um pixel 1, os pixels da região analisada recebem valor 1 onde os pixels do ES também são 1. 
+c. Abertura
+
         c. A abertura consiste em uma erosão seguida de uma dilatação na imagem. 
+d. Fechamento
+
         d. O fechamento consiste no inverso da abertura, isto é, uma dilatação seguida de uma erosão na imagem.
 2. Seja __R__ uma região binária cujos pixels que a compõe estão marcados em cinza e o fundo marcado em branco. Considere também __ER__ um elemento estruturante de tamanho 3x3, que utiliza o mesmo padrão de representação de cores, conforme demonstrado nas figuras a seguir:
 
@@ -23,7 +26,7 @@ d. Fechamento
 
 ![Figura da questão 3](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1/Avaliacao_3/imagens/pdi_2022_1_av3_pergunta_3_i.png)
 
-    a. a.	A erosão usa uma função de mínimo e por isso ocorre o alargamento de objetos mais escuros, enquanto objetos mais claros diminuem de tamanho. A imagem também fica mais escura. 
+    a.  A erosão usa uma função de mínimo e por isso ocorre o alargamento de objetos mais escuros, enquanto objetos mais claros diminuem de tamanho. A imagem também fica mais escura. 
     b.	Na dilatação, como é usada uma função de máximo, a imagem fica mais clara, as regiões mais claras aumentam de tamanho e as mais escuras diminuem. 
     c.	A abertura remove pequenos detalhes claros e mantém os níveis de cinza gerais da imagem, apagando os pontos brancos rodeando o círculo branco no canto superior da imagem da questão. 
     d.	O fechamento mantém também os níveis de cinza gerais da imagem, porém remove pequenos detalhes escuros, como os diversos pontos pretos ou as conexões escuras na região à direita da imagem. 
