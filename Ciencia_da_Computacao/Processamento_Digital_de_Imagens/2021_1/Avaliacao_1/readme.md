@@ -26,15 +26,18 @@
             Adjacência-8: Dois pixels ‘p’ e ‘q’ com valores pertencendo a V são adjacentes oito se ‘q’ estiver no conjunto N8(p).\
             Adjacência-m: Dois pixels ‘p’ e ‘q’ com valores pertencendo a V são adjacentes misto se: ‘q’ estiver no N4(p) ou ‘q’ está no ND(p) e o conjunto N4(p) ∩ N4(q) não contém nenhum pixel cujos valores pertencem a V.
 
-    b.	Para cada tipo de adjacência, crie uma imagem binária hipotética contendo um exemplo desta adjacência. Importante: não esqueça de assinalar os pixels que participam da adjacência indicada.\
+    b.	Para cada tipo de adjacência, crie uma imagem binária hipotética contendo um exemplo desta adjacência. Importante: não esqueça de assinalar os pixels que participam da adjacência indicada.
+  	
             Imagem A-4 – pixel p = (1, 1); pixel q = (0, 1).\
-            ![Imagem hipotética A-4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_i.PNG)\
+   ![Imagem hipotética A-4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_i.PNG)
+   
             Imagem A-8 – pixel p = (1, 1); pixel q = (0, 2).\
-            ![Imagem hipotétitca A-8](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_ii.PNG)\
-            Imagem A-m – pixel p = (1, 1); pixel q = (0, 1).\
-            ![Imagem hipotética A-m](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_iii.PNG)
+![Imagem hipotétitca A-8](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_ii.PNG)
 
-3.   Observe os histogramas apresentados a seguir.\
+            Imagem A-m – pixel p = (1, 1); pixel q = (0, 1).
+![Imagem hipotética A-m](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_iii.PNG)
+
+4.   Observe os histogramas apresentados a seguir.\
     ![Imagem 1](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_3_i.png)
     ![Imagem 2](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_3_ii.png)
     ![Imagem 3](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_3_iii.png)
