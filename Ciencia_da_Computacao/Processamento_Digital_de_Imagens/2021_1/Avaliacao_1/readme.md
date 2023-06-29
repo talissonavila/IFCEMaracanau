@@ -28,10 +28,10 @@
 
     b.	Para cada tipo de adjacência, crie uma imagem binária hipotética contendo um exemplo desta adjacência. Importante: não esqueça de assinalar os pixels que participam da adjacência indicada.
   	
-            Imagem A-4 – pixel p = (1, 1); pixel q = (0, 1).\
+            Imagem A-4 – pixel p = (1, 1); pixel q = (0, 1).
    ![Imagem hipotética A-4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_i.PNG)
    
-            Imagem A-8 – pixel p = (1, 1); pixel q = (0, 2).\
+            Imagem A-8 – pixel p = (1, 1); pixel q = (0, 2).
 ![Imagem hipotétitca A-8](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_ii.PNG)
 
             Imagem A-m – pixel p = (1, 1); pixel q = (0, 1).
