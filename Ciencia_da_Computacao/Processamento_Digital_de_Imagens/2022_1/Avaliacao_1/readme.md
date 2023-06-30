@@ -32,7 +32,7 @@ a. Sendo V = {0, 1}, calcule os comprimentos dos caminhos –4, –8 e –m mais
 
 ![Figura 1 da resposta da questão 3 item a](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1/Avaliacao_1/imagens/pdi_2022_1_av1_resposta_3_a_i.PNG)
 
-    - caminho -m: Tamnaho 5
+    - caminho -m: Tamanho 5
 
 ![Figura 2 da resposta da questão 3 item a](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1/Avaliacao_1/imagens/pdi_2022_1_av1_resposta_3_a_ii.PNG)
 
