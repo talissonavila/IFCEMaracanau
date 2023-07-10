@@ -29,7 +29,7 @@ a.	Sendo V = {0, 1}, esboce os caminhos –4 , –8 e –m mais curtos entre os 
     –4: Não, pois os pixels (1, 2) e ‘q’ não são vizinhos 4 entre si, e a interseção dos seus vizinhos 4 não pertencem a V, impossibilitando sua ligação.
     -8: Tamanho = 4
 
-![Figura da resposta da questão 2 item a -8](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_1/imagens/pdi_2023_1_av1_resposta_2_item_2_i.PNG)
+![Figura da resposta da questão 2 item a -8](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_1/imagens/pdi_2023_1_av1_resposta_2_a_i.PNG)
     
     -m: Tamanho = 5
     
