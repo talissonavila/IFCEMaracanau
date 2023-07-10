@@ -28,25 +28,27 @@ a.	Sendo V = {0, 1}, esboce os caminhos –4 , –8 e –m mais curtos entre os 
 
     –4: Não, pois os pixels (1, 2) e ‘q’ não são vizinhos 4 entre si, e a interseção dos seus vizinhos 4 não pertencem a V, impossibilitando sua ligação.
     -8: Tamanho = 4
+
 ![Figura da resposta da questão 2 item a -8](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_1/imagens/pdi_2023_1_av1_resposta_2_item_2_i.PNG)
     
     -m: Tamanho = 5
-![Figura da resposta da questão 2 item a -m](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_1/imagens/pdi_2023_1_av1_resposta_2_item_a_ii.PNG)
+    
+![Figura da resposta da questão 2 item a -m](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_1/imagens/pdi_2023_1_av1_resposta_2_a_ii.PNG)
 
 b.	Faça o mesmo para V = {1, 2}.
 
     Reposta
     -4: Tamanho = 6
 
-![Figura da resposta da questão 2 item b -4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_1/imagens/pdi_2023_1_av1_resposta_2_item_b_i.PNG)
+![Figura da resposta da questão 2 item b -4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_1/imagens/pdi_2023_1_av1_resposta_2_b_i.PNG)
 
     -8: Tamanho = 4
 
-![Figura da resposta da questão 2 item b -8](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_1/imagens/pdi_2023_1_av1_resposta_2_item_b_ii.PNG)
+![Figura da resposta da questão 2 item b -8](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_1/imagens/pdi_2023_1_av1_resposta_2_b_ii.PNG)
 
     -m: Tamanho = 6
 
-![Figura da resposta da questão 2 item b -m](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_1/imagens/pdi_2023_1_av1_resposta_2_item_b_iii.PNG)
+![Figura da resposta da questão 2 item b -m](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_1/imagens/pdi_2023_1_av1_resposta_2_b_iii.PNG)
 
 3. Sobre histograma de imagens, responda o que se pede:
 
