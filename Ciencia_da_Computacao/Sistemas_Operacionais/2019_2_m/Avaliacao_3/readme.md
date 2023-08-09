@@ -115,7 +115,7 @@
 
 15.	O software de E/S é normalmente organizado em quatro camadas, cada camada tem uma função bem definida. Explique do que se trata essa funcionalidade de cada camada.
 
-![Tabela da questão 14](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Sistemas_Operacionais/2019_2/Avaliacao_3/imagens/so_2019_2_av3_pergunta_14_i.PNG)
+![Tabela da questão 14](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Sistemas_Operacionais/2019_2_m/Avaliacao_3/imagens/so_2019_2_av3_pergunta_14_i.PNG)
 
         Resposta
         

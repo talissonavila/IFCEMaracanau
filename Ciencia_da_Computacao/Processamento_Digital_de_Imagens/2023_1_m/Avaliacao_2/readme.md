@@ -2,13 +2,13 @@
 
 1.  Nas Tabelas 1 e 2 são apresentados, respectivamente, os valores de intensidade de uma imagem digital hipotética **_I_** e o conjunto de coeficientes **_h_** de uma máscara de tamanho 3x3. Analise estas duas tabelas e faça o que se pede.
 
-![Figura 1 da questão 1](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_2/imagens/pdi_2023_1_av2_pergunta_1_i.PNG)
+![Figura 1 da questão 1](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1_m/Avaliacao_2/imagens/pdi_2023_1_av2_pergunta_1_i.PNG)
 
 O que se pede:
 
 a.  Realize a filtragem espacial da imagem **_I_** utilizando os coeficientes da máscara **_h_** e preencha a Tabela 3 com o resultado desta operação. Para realizar esta tarefa utilize o método de processamento de borda denominado **_zero padding_**.
 
-![Resposta da questão 1 item a](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_2/imagens/pdi_2023_1_av2_resposta_1_i.PNG)
+![Resposta da questão 1 item a](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1_m/Avaliacao_2/imagens/pdi_2023_1_av2_resposta_1_i.PNG)
 
 b. Qual o nome da filtragem espacial descrita no item anterior?
 
@@ -54,18 +54,18 @@ a. Explique o funcionamento do método iterativo (algoritmo iterativo) de cálcu
 
 b. Calcule a partir deste método o limiar **_T_** que pode ser utilizado para segmentar corretamente esta imagem hipotética.
 
-![Figura 1 da questão 4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_2/imagens/pdi_2023_1_av2_pergunta_4_i.PNG)
+![Figura 1 da questão 4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1_m/Avaliacao_2/imagens/pdi_2023_1_av2_pergunta_4_i.PNG)
 
     Resposta
 
 5. Na Tabela 5 são apresentados os valores de intensidade de uma imagem digital hipotética **_S_** de **_8 bits_** e tamanho **_6x6 pixels_**.
 
-![Figura 1 da questão 5](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_2/imagens/pdi_2023_1_av2_pergunta_5_i.PNG)
+![Figura 1 da questão 5](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1_m/Avaliacao_2/imagens/pdi_2023_1_av2_pergunta_5_i.PNG)
 
 a. Utilizando como base esses valores, faça a limiarização global simples com **_T_**=140, produzindo como resultado uma imagem de mesmo tamanho da original, mas limiarizada com **_T_** indicado. Os pixels de fundo devem possuir o valor **_0_** (zero) e os pixels do objeto o valor **_1_** (um). Preencha a Tabela 6 com o resultado deste procedimento.
 
-![Respsta da questão 5 item a](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_2/imagens/pdi_2023_1_av2_resposta_6_item_a_i.PNG)
+![Respsta da questão 5 item a](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1_m/Avaliacao_2/imagens/pdi_2023_1_av2_resposta_6_item_a_i.PNG)
 
 b. Com a mesma Tabela 5, realize a limiarização global múltipla, utilizando para tal **_T<sub>1</sub>_**=30 e **_T<sub>2</sub>_**=155, produzindo como resultado uma imagem de mesmo tamanho da original, mas limiarizada com os dois valores de **_T_** indicados. Somente os valores que estiverem entre **_T<sub>1</sub>_** e **_T<sub>2</sub>_** devem ser marcados com o valor **_1_** (um). Os pixels de fundo devem ser marcados com o valor **_0_** (zero). Preencha a tabela 7 com o resultado deste procedimento.
 
-![Resposta da questão 5 item b](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1/Avaliacao_2/imagens/pdi_2023_1_av2_resposta_6_item_b_i.PNG)
+![Resposta da questão 5 item b](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2023_1_m/Avaliacao_2/imagens/pdi_2023_1_av2_resposta_6_item_b_i.PNG)

@@ -29,19 +29,19 @@
     b.	Para cada tipo de adjacência, crie uma imagem binária hipotética contendo um exemplo desta adjacência. Importante: não esqueça de assinalar os pixels que participam da adjacência indicada.
   	
             Imagem A-4 – pixel p = (1, 1); pixel q = (0, 1).
-   ![Imagem hipotética A-4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_i.PNG)
+   ![Imagem hipotética A-4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1_m/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_i.PNG)
    
             Imagem A-8 – pixel p = (1, 1); pixel q = (0, 2).
-![Imagem hipotétitca A-8](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_ii.PNG)
+![Imagem hipotétitca A-8](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1_m/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_ii.PNG)
 
             Imagem A-m – pixel p = (1, 1); pixel q = (0, 1).
-![Imagem hipotética A-m](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_iii.PNG)
+![Imagem hipotética A-m](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1_m/Avaliacao_1/imagens/pdi_2021_1_av1_resposta_3b_iii.PNG)
 
 4.   Observe os histogramas apresentados a seguir.\
-    ![Imagem 1](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_3_i.png)
-    ![Imagem 2](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_3_ii.png)
-    ![Imagem 3](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_3_iii.png)
-    ![Imagem 4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_3_iv.png)
+    ![Imagem 1](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1_m/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_3_i.png)
+    ![Imagem 2](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1_m/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_3_ii.png)
+    ![Imagem 3](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1_m/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_3_iii.png)
+    ![Imagem 4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1_m/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_3_iv.png)
 
 Para cada histograma, indique se este foi criado a partir de uma imagem:
 
@@ -55,7 +55,7 @@ d.	Escura.
             c. Imagem 1
             d. Imagem 2
 4.  As imagens mostradas nas Figuras 2(a) 2(b) (arquivos figura_2a.png e figura _2b.png em anexo) são diferentes entre si, mas possuem histogramas idênticos. Sobre estas duas imagens, faça o que se pede:\
-![Imagem da questão 4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_4.png)
+![Imagem da questão 4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1_m/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_4.png)
 
     a.	Explique porque os histogramas são idênticos, uma vez que as imagens são diferentes.
     
@@ -73,7 +73,7 @@ d.	Escura.
 
     a.	Identifique a operação efetuada.\
     b.	Explique o funcionamento desta operação.\
-    ![Imagem da questão 5](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_5.png)
+    ![Imagem da questão 5](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1_m/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_5.png)
     
         Operação A:
         a. Negativo de imagem.
@@ -92,7 +92,7 @@ d.	Escura.
         b.
 6. Na figura a seguir (arquivo ckt-board-saltpep-prob.pt05.tif em anexo) é mostrada a imagem de uma placa de circuito corrompida pelo ruído sal e pimenta:
 
-![Imagem da questão 6](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_6.png)
+![Imagem da questão 6](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2021_1_m/Avaliacao_1/imagens/pdi_2021_1_av1_pergunta_6.png)
 
 Utilizando uma janela de tamanho 5 x 5, faça o que se pede:
 

@@ -19,40 +19,40 @@
     
 2. Sejam três imagens digitais hipotéticas, *f*, *g* e *h*, cada uma com tipos definidos na tabela a seguir e tamanho igual a 50x50 pixels. Para cada uma das imagens citadas, preencha as lacunas com as informações corretas.
 
-![Figura 1 da resposta da questão 2](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1/Avaliacao_1/imagens/pdi_2022_1_av1_resposta_2_i.PNG)
+![Figura 1 da resposta da questão 2](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1_m/Avaliacao_1/imagens/pdi_2022_1_av1_resposta_2_i.PNG)
 
 3. Considere o segmento de imagem a seguir e faça o que se pede:
 
-![Figura da questão 3](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1/Avaliacao_1/imagens/pdi_2022_1_av1_pergunta_3_i.PNG)
+![Figura da questão 3](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1_m/Avaliacao_1/imagens/pdi_2022_1_av1_pergunta_3_i.PNG)
 
 a. Sendo V = {0, 1}, calcule os comprimentos dos caminhos –4, –8 e –m mais curtos entre os pixels p e q. Se um caminho específico não existir entre dois pontos, explique por quê.
 
     - caminho –4: não existe pois não há nenhum pixel com valor de V na vizinhança –4 de q.
     - caminho -8: Tamanho 4
 
-![Figura 1 da resposta da questão 3 item a](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1/Avaliacao_1/imagens/pdi_2022_1_av1_resposta_3_a_i.PNG)
+![Figura 1 da resposta da questão 3 item a](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1_m/Avaliacao_1/imagens/pdi_2022_1_av1_resposta_3_a_i.PNG)
 
     - caminho -m: Tamanho 5
 
-![Figura 2 da resposta da questão 3 item a](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1/Avaliacao_1/imagens/pdi_2022_1_av1_resposta_3_a_ii.PNG)
+![Figura 2 da resposta da questão 3 item a](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1_m/Avaliacao_1/imagens/pdi_2022_1_av1_resposta_3_a_ii.PNG)
 
 b.	Faça o mesmo para V = {1, 2}.
 
     - caminho -4: Tamanho 6
 
-![Figura 1 da resposta da questão 3 item b](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1/Avaliacao_1/imagens/pdi_2022_1_av1_resposta_3_b_i.PNG)
+![Figura 1 da resposta da questão 3 item b](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1_m/Avaliacao_1/imagens/pdi_2022_1_av1_resposta_3_b_i.PNG)
 
     - caminho -8: Tamanho 4
 
-![Figura 2 da resposta da questão 3 item b](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1/Avaliacao_1/imagens/pdi_2022_1_av1_resposta_3_b_ii.PNG)
+![Figura 2 da resposta da questão 3 item b](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1_m/Avaliacao_1/imagens/pdi_2022_1_av1_resposta_3_b_ii.PNG)
 
     - caminho -m: Tamanho 6
 
-![Figura 3 da resposta da questão 3 item b](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1/Avaliacao_1/imagens/pdi_2022_1_av1_resposta_3_b_iii.PNG)
+![Figura 3 da resposta da questão 3 item b](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1_m/Avaliacao_1/imagens/pdi_2022_1_av1_resposta_3_b_iii.PNG)
 
 4. As imagens mostradas a seguir são diferentes entre si, mas possuem histogramas idênticos. Qual a sua hipótese para explicar este fato?
 
-![Figura 1 da questão 4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1/Avaliacao_1/imagens/pdi_2022_1_av1_pergunta_4_i.png)
+![Figura 1 da questão 4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1_m/Avaliacao_1/imagens/pdi_2022_1_av1_pergunta_4_i.png)
 
     O histograma mostra apenas a frequência que os bits de dadas intensidades aparecem na imagem, não tendo relação com seu conteúdo.
 
@@ -65,19 +65,19 @@ b.	Faça o mesmo para V = {1, 2}.
     c.	Clara\
     d.	Escura
 
-![Figura 1 da questão 5](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1/Avaliacao_1/imagens/pdi_2022_1_av1_pergunta_5_i.png)
+![Figura 1 da questão 5](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1_m/Avaliacao_1/imagens/pdi_2022_1_av1_pergunta_5_i.png)
 
     c. Clara
 
-![Figura 2 da questão 5](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1/Avaliacao_1/imagens/pdi_2022_1_av1_pergunta_5_ii.png)
+![Figura 2 da questão 5](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1_m/Avaliacao_1/imagens/pdi_2022_1_av1_pergunta_5_ii.png)
 
     d. Escura
 
-![Figura 3 da questão 5](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1/Avaliacao_1/imagens/pdi_2022_1_av1_pergunta_5_iii.png)
+![Figura 3 da questão 5](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1_m/Avaliacao_1/imagens/pdi_2022_1_av1_pergunta_5_iii.png)
 
     a. Baixo contraste
 
-![Figura 4 da questão 5](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1/Avaliacao_1/imagens/pdi_2022_1_av1_pergunta_5_iv.png)
+![Figura 4 da questão 5](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1_m/Avaliacao_1/imagens/pdi_2022_1_av1_pergunta_5_iv.png)
 
     b. Alto contraste
 
@@ -92,7 +92,7 @@ b.	Faça o mesmo para V = {1, 2}.
         
         Resposta
 
-![Figura 1 da resposta da questão 6 item a subitem ii](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1/Avaliacao_1/imagens/pdi_2022_1_av1_resposta_6_a_i.PNG)
+![Figura 1 da resposta da questão 6 item a subitem ii](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Processamento_Digital_de_Imagens/2022_1_m/Avaliacao_1/imagens/pdi_2022_1_av1_resposta_6_a_i.PNG)
 
 b.	Filtro da mediana\
 i.	Explique seu funcionamento
