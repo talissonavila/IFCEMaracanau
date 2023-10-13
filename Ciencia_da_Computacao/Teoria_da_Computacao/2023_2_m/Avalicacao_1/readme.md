@@ -1,7 +1,7 @@
 # Gabarito da prova
 1. Sobre a linguagem L aceita pelo AF abaixo, assinale a opção correta
 
-    ![Figura 1 da questão 1](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Teoria_da_Computacao/2023_2_m/Avaliacao_1/imagens/teoria_2023_2_av1_pergunta_1_i.png)
+    ![Figura 1 da questão 1](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Teoria_da_Computacao/2023_2_m/Avalicacao_1/imagens/teoria_2023_2_av1_pergunta_1_i.PNG)
 
     A. É a linguagem das strings com um número ímpar de a’s e par de b’s.\
     B.	É a linguagem das strings com um número par de a’s e ímpar de b’s.\
@@ -13,7 +13,7 @@
 
 2. Assinale a opção com string aceita pelo AF abaixo.
 
-    ![Figura 1 da questão 2](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Teoria_da_Computacao/2023_2_m/Avaliacao_1/imagens/teoria_2023_2_av1_pergunta_2_i.png)
+    ![Figura 1 da questão 2](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Teoria_da_Computacao/2023_2_m/Avalicacao_1/imagens/teoria_2023_2_av1_pergunta_2_i.PNG)
 
     A.	ababab\
     B.	bababa\
@@ -25,7 +25,7 @@
 
 3. Escreva a expressão regular da linguagem aceita pelo AFnD abaixo.
 
-    ![Figura 1 da questão 3](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Teoria_da_Computacao/2023_2_m/Avaliacao_1/imagens/teoria_2023_2_av1_pergunta_3_i.png)
+    ![Figura 1 da questão 3](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Teoria_da_Computacao/2023_2_m/Avalicacao_1/imagens/teoria_2023_2_av1_pergunta_3_i.PNG)
 
         R:
 
@@ -33,7 +33,7 @@
 
 4.  Escreva a expressão regular que corresponde ao AFnD abaixo.
 
-    ![Figura 1 da questão 4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Teoria_da_Computacao/2023_2_m/Avaliacao_1/imagens/teoria_2023_2_av1_pergunta_4_i.png)
+    ![Figura 1 da questão 4](https://github.com/talissonavila/IFCEMaracanau/blob/main/Ciencia_da_Computacao/Teoria_da_Computacao/2023_2_m/Avalicacao_1/imagens/teoria_2023_2_av1_pergunta_4_i.PNG)
 
         R:
     R = $(0, 1)^*(00, 11)(0, 1)(0, 1)^*$
