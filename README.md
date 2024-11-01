@@ -26,7 +26,7 @@ Após o recebimento de sua avaliação:
 ## FAQ (Perguntas Frequentes)
 1. 
     * Pergunta: Como posso enviar minha prova prova?
-    * Resposta: Envie um e-mail com sua prova para [talisson_avila@hotmail.com](mailto:talisson_avila@hotmail.com). Coloque no título do e-mail a disciplina e o semestre da prova.
+    * Resposta: Envie um e-mail com sua prova para [devtalisson@gmail.com](mailto:devtalisson@gmail.com). Coloque no título do e-mail a disciplina e o semestre da prova.
 
 2.  
     * Pergunta: Falta uma resposta em uma prova e eu sei a resposta. O que eu posso fazer?
@@ -36,7 +36,7 @@ Após o recebimento de sua avaliação:
     * Resposta: Abra uma issue no arquivo que após avaliação, será trocada.
 
 4.  * Pergunta: Tenho uma sugestão. O que eu posso fazer?
-    * Resposta: Envie um e-mail com sua sugestão para [talisson_avila@hotmail.com](mailto:talisson_avila@hotmail.com). Coloque no título do e-mail [Sugestão]. Caso seja em um arquivo específico, abra uma issue. Em ambos os casos, sua sugestão será avaliada. Caso não seja incorporada, não fique triste.
+    * Resposta: Envie um e-mail com sua sugestão para [devtalisson@gmail.com](mailto:devtalisson@gmail.com). Coloque no título do e-mail [Sugestão]. Caso seja em um arquivo específico, abra uma issue. Em ambos os casos, sua sugestão será avaliada. Caso não seja incorporada, não fique triste.
     
 
 ### Com o tempo novas perguntas serão adicionadas no FAQ. Avaliem positivamente o repositório.
